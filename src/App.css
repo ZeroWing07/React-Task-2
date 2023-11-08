@@ -9,7 +9,7 @@
 
 .Calculator {
     overflow: hidden;
-    border: 1px solid #0e0d38;
+    border: 1px solid #022453;
     border-radius: 10px;
     width: 277px;
 }
@@ -23,7 +23,7 @@
     min-height: 120px;
     word-break: break-all;
     text-justify: distribute;
-    background-color: #2c29d0;
+    background-color: #3144e7;
     color: white;
     font-size: 50px;
     width: 100%;
